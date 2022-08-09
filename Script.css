@@ -1,0 +1,62 @@
+#title{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+body{
+  margin: 0px;
+}
+
+header{
+  background-color: #ea602f;
+  width: 620px;
+  height:90px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+  margin: 0px;
+}
+
+#icon{
+  width: 65px;
+  height: 65px;
+  margin: 10px 10px;
+  display: inline-block;
+  float: left;
+}
+
+#buttom{
+  width: 245px;
+  height: 245px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 64px;
+  display: block;
+}
+#rank{
+  width:32px;
+  height:32px;
+  display:inline-block;
+  padding-top: 0px;
+}
+
+.name{
+  display:block;
+  color: white;
+  font-size: 14px;
+  /* margin-top: 20px; */
+}
+
+.level{
+  color: white;
+  display: inline-block;
+}
+
+
+.headerEle{
+  padding-top: 12px;
+}
